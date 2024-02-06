@@ -7,7 +7,7 @@ title: Alaina Harrison Portfolio
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -20,10 +20,10 @@ email: amvoce1221@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: EmeraldSerpent57
+github_username: https://github.com/EmeraldSerpent57
 codepen_username: 
-dev_username: emeraldserpent57
-linkedin_username: alaina-harrison-48a4a81b7
+dev_username: https://dev.to/emeraldserpent57
+linkedin_username: https://www.linkedin.com/in/alaina-harrison-48a4a81b7
 twitter_username: 
 
 # ABOUT ME SECTION
