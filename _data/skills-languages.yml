@@ -31,3 +31,6 @@
 
 - name: JQuery
   weight: 1
+
+- name: Jekyll
+  weight: 2
