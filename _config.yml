@@ -84,26 +84,27 @@ contact_title: Contact Me
 # contact_description: This will be displayed under the title.
 contact_description: If you're looking for an ambitious individual to add to your team, I'd love to hear from you!
 
+# COMMENTING OUT
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
-projects:
+#repository: longpdo/neumorphism
+#projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
   # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: pushed
-  exclude:
+  #sort_by: pushed
+  #exclude:
     # archived:
     # > setting this to true, will exclude archived repositories
     # > setting this to false, will also display archived repositories
-    archived: true
+    #archived: true
     # forks:
     # > setting this to true, will exclude forked repositories
     # > setting this to false, will also display forked repositories
-    forks: true
+    #forks: true
     # projects: A list of the repository names you want to exclude from the listing.
-    projects:
+    #projects:
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 
@@ -111,7 +112,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: ""
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
