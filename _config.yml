@@ -14,7 +14,7 @@ baseurl: ""
 username: Alaina Harrison
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Frontend Developer
+typing_text: Frontend Developer | CSM
 # email: Your E-Mail address for the email button.
 email: amvoce1221@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is Alaina Harrison and I am a front-end developer who started out in retail management. A little over 10 years ago, I entered in to the retail field as a seasonal employee and quickly worked my way to a management role within the first year. Since then I have been honing my skills in leadership, knowledge, career development, and communication. Eventually I started wanting more of a challenge in my career but could not really get that in the environment I was in. I fell in to coding on a whim and it brought me the challenge and change of pace I had been after. I have so much drive and ambition to learn and explore any technology and framework that catches my interest. I enjoy developing applications that I can see come to life right in front of me, and taking a project from an idea to launch! I enjoy working in a collaborative and team-oriented environment, and making sure everyone succeeds. My ideal work environment is one where everyone can share ideas on processes and best practices, where career growth is fostered and developed, and where different personalities can come together to work effectively toward an end goal. If you're looking for an ambitious developer to add to your team, I'd love to hear from you!
+about_me_description: My name is Alaina Harrison and I am a Front-end Developer and Customer Service Manager who started out in retail management. A little over 10 years ago, I entered in to the retail field as a seasonal employee and quickly worked my way to a management role within the first year. Since then I have been honing my skills in leadership, knowledge, career development, and communication. Eventually I started wanting more of a challenge in my career but could not really get that in the environment I was in. I fell in to coding on a whim and it brought me the challenge and change of pace I had been after. I have so much drive and ambition to learn and explore any technology and framework that catches my interest. I enjoy developing applications that I can see come to life right in front of me, and taking a project from an idea to launch! I enjoy working in a collaborative and team-oriented environment, and making sure everyone succeeds. My ideal work environment is one where everyone can share ideas on processes and best practices, where career growth is fostered and developed, and where different personalities can come together to work effectively toward an end goal.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/file/d/1I0UOrUWQ6m_MRtlV78Ttsdu1Yjd6MuTt/view?usp=share_link
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -80,9 +80,9 @@ projects_title: Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: Contact Me
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: If you're looking for an ambitious individual to add to your team, I'd love to hear from you!
 
 # GITHUB-METADATA
 # Set this to your forked repository
