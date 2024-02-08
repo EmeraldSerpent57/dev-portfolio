@@ -20,11 +20,11 @@ email: amvoce1221@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: https://github.com/EmeraldSerpent57
-codepen_username: 
-dev_username: https://dev.to/emeraldserpent57
-linkedin_username: https://www.linkedin.com/in/alaina-harrison-48a4a81b7
-twitter_username: 
+github_username: EmeraldSerpent57
+codepen_username:
+dev_username: emeraldserpent57
+linkedin_username: alaina-harrison-48a4a81b7
+twitter_username:
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,10 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is Alaina Harrison and I am a front-end developer who started out in retail management.
-A little over 10 years ago, I entered in to the retail field as a seasonal employee and quickly worked my way to a management role within the first year. Since then I have been honing my skills in leadership, knowledge, career development, and communication. Eventually I started wanting more of a challenge in my career but could not really get that in the environment I was in. I fell in to coding on a whim and it brought me the challenge and change of pace I had been after. I have so much drive and ambition to learn and explore any technology and framework that catches my interest. I enjoy developing applications that I can see come to life right in front of me, and taking a project from an idea to launch!
-I enjoy working in a collaborative and team-oriented environment, and making sure everyone succeeds. My ideal work environment is one where everyone can share ideas on processes and best practices, where career growth is fostered and developed, and where different personalities can come together to work effectively toward an end goal.
-If you're looking for an ambitious developer to add to your team, I'd love to hear from you!
+about_me_description: My name is Alaina Harrison and I am a front-end developer who started out in retail management. A little over 10 years ago, I entered in to the retail field as a seasonal employee and quickly worked my way to a management role within the first year. Since then I have been honing my skills in leadership, knowledge, career development, and communication. Eventually I started wanting more of a challenge in my career but could not really get that in the environment I was in. I fell in to coding on a whim and it brought me the challenge and change of pace I had been after. I have so much drive and ambition to learn and explore any technology and framework that catches my interest. I enjoy developing applications that I can see come to life right in front of me, and taking a project from an idea to launch! I enjoy working in a collaborative and team-oriented environment, and making sure everyone succeeds. My ideal work environment is one where everyone can share ideas on processes and best practices, where career growth is fostered and developed, and where different personalities can come together to work effectively toward an end goal. If you're looking for an ambitious developer to add to your team, I'd love to hear from you!
 
 # SKILLS SECTION
 # show_skills_card:
