@@ -13,21 +13,34 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Great Quotes
+  descr: "A site where lovers of great quotes can view quotes submitted by other users, comment on already added quotes, and even add their own quote contribution!"
+  demo: https://great-quotes-app-react-router.vercel.app/home
   tags:
+    - tag: React
+    - tag: HTML
+    - tag: CSS
+    - tag: Firebase
+    - tag: Vercel
+    - tag: Jest
+
+- name: React World Meetups
+  descr: "A site where passionate React developers can find and organize local meetups with other developers to talk, share ideas, and network in a location closest to them!"
+  demo: https://react-world-meetups-nextjs.vercel.app
+  tags:
+    - tag: React
+    - tag: NextJS
+    - tag: HTML
+    - tag: CSS
     - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Vercel
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Blog Template
+  descr: "A template blog site built with NextJS. It comes complete with a hero section and featured posts section on the homepage, a page for all posts, and a contact page. It is easily customizable with your own posts, pictures, and much more!"
+  demo: https://nextjs-blog-rho-ruby-71.vercel.app
   tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: NextJS
+    - tag: HTML
+    - tag: CSS
+    - tag: MongoDB
+    - tag: Vercel
