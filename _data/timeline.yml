@@ -17,45 +17,66 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Heal.me
+  date: Dec 2023 - Feb 2024
+  subtitle: Customer Success Representative
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Customer Success
+    - tag: Billing and Payments
+    - tag: Technical Support
+    - tag: Account Support
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Bath & Body Works
+  date: Jun 2018 - Apr 2022
+  subtitle: Assistant Store Manager
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Customer Service
+    - tag: Management
+    - tag: Analyzing Business Trends
+    - tag: Hiring and Retention
+    - tag: Sales
+    - tag: Employee development
+    - tag: Marketing
+    - tag: Scheduling
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: First Hawaiian Bank
+  date: Aug 2014 - May 2017
+  subtitle: Head Teller
+  tags:
+    - tag: Banking
+    - tag: Account Management
+    - tag: Auditing
+    - tag: Cash Management
+    - tag: Sales
+    - tag: Loans
+    - tag: Customer Service
+  timeline-side: right
+
+- title: Elizabethtown Community and Technical College
+  date: 2012 - 2013
+  subtitle: Special Education
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Bath & Body Works
+  date: April 2012 - June 2014
+  subtitle: Customer Sales Lead
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Customer Service
+    - tag: Sales
+    - tag: Marketing
+    - tag: Product Placement
+    - tag: Inventory
+    - tag: Cash Handling
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Riverside Community College
+  date: 2010 - 2012
+  subtitle: Early Childhood Education
+  timeline-side: left
+
+- title: San Bernardino High School
+  date: 2010 
+  subtitle: High School Diploma
   timeline-side: left
